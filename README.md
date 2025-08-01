@@ -48,8 +48,8 @@ If you want to run from source or rebuild the application, follow these steps.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/ShawnJim/PDFTextReplacer.git
+cd PDFTextReplacer
 
 # Create and activate a virtual environment (recommended)
 python -m venv .venv

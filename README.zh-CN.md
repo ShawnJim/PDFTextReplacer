@@ -48,8 +48,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/ShawnJim/PDFTextReplacer.git
+cd PDFTextReplacer
 
 # 创建并激活虚拟环境 (推荐)
 python -m venv .venv
