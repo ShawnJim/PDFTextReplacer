@@ -85,7 +85,7 @@ pyinstaller --noconsole --onefile --name "PDF Replacer" --add-data "fonts;fonts"
 
 The final `PDF Replacer.exe` will be located in the `dist` folder.
 
-## 命令行用法 (高级)
+## Command-Line Usage (Advanced)
 
 For automation or batch processing, you can use the core script directly from the command line. This requires a separate text file for rules.
 
